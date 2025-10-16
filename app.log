@@ -1,0 +1,44 @@
+2025-08-18 14:53:35,617 - __main__ - INFO - Model loaded successfully
+2025-08-18 14:54:11,332 - __main__ - INFO - Prediction made: AB+ with confidence 99.39%
+2025-08-18 15:50:09,900 - __main__ - INFO - Model loaded successfully
+2025-08-18 15:50:28,993 - __main__ - INFO - Model loaded successfully
+2025-08-18 16:23:35,548 - __main__ - ERROR - MantraCaptureError: Could not create COM object for Mantra SDK. Tried: ['Mantra.MFS100', 'MFS100.MFS100', 'MFS100']. Is the non-RD SDK installed? Original error: (-2147221005, 'Invalid class string', None, None)
+2025-08-18 16:36:37,927 - __main__ - INFO - Model loaded successfully
+2025-08-18 16:37:00,872 - __main__ - ERROR - MantraCaptureError: Could not create COM object for Mantra SDK. Tried: ['Mantra.MFS100', 'MFS100.MFS100', 'MFS100']. Is the non-RD SDK installed? Original error: (-2147221005, 'Invalid class string', None, None)
+2025-08-18 16:40:46,493 - __main__ - INFO - Model loaded successfully
+2025-08-18 16:41:08,271 - __main__ - INFO - Model loaded successfully
+2025-08-18 16:44:44,562 - __main__ - ERROR - MantraCaptureError: Could not create COM object for Mantra SDK. Tried: ['Mantra.MFS100', 'MFS100.MFS100', 'MFS100']. Is the non-RD SDK installed? Original error: (-2147221005, 'Invalid class string', None, None)
+2025-08-18 16:48:03,573 - __main__ - ERROR - MantraCaptureError: Could not create COM object for Mantra SDK. Tried: ['Mantra.MFS100', 'MFS100.MFS100', 'MFS100']. Is the non-RD SDK installed? Original error: (-2147221005, 'Invalid class string', None, None)
+2025-08-18 17:45:48,461 - __main__ - INFO - Model loaded successfully
+2025-08-18 17:45:57,252 - mantra_bridge - INFO - RD Service found at port 11100
+2025-08-18 17:45:59,298 - __main__ - ERROR - MantraCaptureError: Network or request error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-18 17:46:04,581 - mantra_bridge - INFO - RD Service found at port 11100
+2025-08-18 17:46:05,563 - mantra_bridge - INFO - RD Service found at port 11100
+2025-08-18 17:46:07,612 - __main__ - ERROR - MantraCaptureError: Network or request error: 405 Client Error: Method Not Allowed for url: http://localhost:11100/rd/capture
+2025-08-18 17:46:39,985 - mantra_bridge - INFO - RD Service found at port 11100
+2025-08-18 17:46:42,039 - __main__ - ERROR - MantraCaptureError: Network or request error: 405 Client Error: Method Not Allowed for url: http://localhost:11100/rd/capture
+2025-08-18 17:46:47,386 - mantra_bridge - INFO - RD Service found at port 11100
+2025-08-18 17:46:49,453 - __main__ - ERROR - MantraCaptureError: Network or request error: 405 Client Error: Method Not Allowed for url: http://localhost:11100/rd/capture
+2025-08-18 17:48:37,394 - mantra_bridge - INFO - RD Service found at port 11100
+2025-08-18 17:48:39,456 - __main__ - ERROR - MantraCaptureError: An unexpected error occurred during capture: Response did not contain a <Resp> element.
+2025-08-18 17:48:48,559 - mantra_bridge - INFO - RD Service found at port 11100
+2025-08-18 17:48:50,626 - __main__ - ERROR - MantraCaptureError: Network or request error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-18 17:48:53,157 - mantra_bridge - INFO - RD Service found at port 11100
+2025-08-18 17:48:55,211 - __main__ - ERROR - MantraCaptureError: An unexpected error occurred during capture: Response did not contain a <Resp> element.
+2025-08-18 17:50:03,203 - __main__ - INFO - Model loaded successfully
+2025-08-18 17:50:18,883 - __main__ - INFO - Model loaded successfully
+2025-08-18 17:50:29,476 - mantra_bridge - INFO - RD Service found at port 11100
+2025-08-18 17:50:31,543 - __main__ - ERROR - MantraCaptureError: An unexpected error occurred during capture: Response did not contain a <Resp> element. Please check the console logs for the raw response.
+2025-08-18 18:00:36,761 - __main__ - INFO - Model loaded successfully
+2025-08-18 18:03:27,499 - __main__ - INFO - Model loaded successfully
+2025-08-18 18:11:13,256 - __main__ - INFO - Model loaded successfully
+2025-08-18 18:20:29,612 - __main__ - INFO - Model loaded successfully
+2025-08-18 18:31:51,305 - __main__ - INFO - Model loaded successfully
+2025-08-18 18:32:24,712 - __main__ - INFO - Model loaded successfully
+2025-08-18 18:42:22,355 - __main__ - INFO - Model loaded successfully
+2025-08-20 12:58:44,053 - __main__ - INFO - Model loaded successfully
+2025-08-20 13:11:06,811 - __main__ - INFO - Prediction made: AB+ with confidence 93.87%
+2025-08-20 14:45:33,090 - __main__ - INFO - Model loaded successfully
+2025-09-21 18:29:22,497 - __main__ - INFO - Model loaded successfully
+2025-09-21 18:30:14,137 - __main__ - INFO - Prediction made: A- with confidence 93.58%
+2025-09-21 19:18:59,995 - __main__ - INFO - Model loaded successfully
