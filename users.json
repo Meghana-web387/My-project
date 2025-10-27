@@ -14,5 +14,13 @@
     "created_at": "2025-10-12T09:56:55.269775",
     "login_count": 1,
     "last_login": "2025-10-12T09:57:15.595138"
+  },
+  "megha": {
+    "email": "megha@gmail.com",
+    "password": "dfbc3675c1a161231f45bf4d6f4e64487fe9f38379f6ec4aac4932f9692d2823",
+    "full_name": "Meghana",
+    "created_at": "2025-10-18T15:57:44.994838",
+    "login_count": 3,
+    "last_login": "2025-10-18T16:18:20.347873"
   }
 }
